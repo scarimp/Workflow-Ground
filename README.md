@@ -2,7 +2,7 @@ MyNewrepos
 ==========
 
 Repository for demo purposes
-
-    -I created a new repos
-    -I changed the readme
-    -I committed
+  
+    1 I made a new  repos.
+    2 I changed the readme.
+    3 I committed it.
