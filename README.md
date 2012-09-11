@@ -3,11 +3,12 @@ MyNewrepos
 
 Repository for demo purposes
   
-    1. I made a new  repos.
-    2. I changed the readme.
-    3. Committed it.
+    1. I made a new  repos(at gitHub).
+    2. I changed the readme (at github).
+    3. Committed it (at github).
     4. From my desktop computer forked the repos.
-    5. Make same changes at readme.md
-    6. Use git add for the changes
+    5. Made same changes at readme.md.
+    6. Used git add for the changes.
+    7. Used git push to change the repos at GitHub.
 
     
