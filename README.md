@@ -1,7 +1,7 @@
 Worklow-Ground
 ==============
 
-A vey simple workflow using git.
+A very simple workflow using git.
 
 I made the following steps:
 
