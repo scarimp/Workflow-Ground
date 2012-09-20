@@ -1,4 +1,4 @@
-Worklow-Ground
+Workflow-Ground
 ==============
 
 A very simple workflow using git.
