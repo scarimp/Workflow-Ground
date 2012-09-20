@@ -3,7 +3,7 @@ Workflow-Ground
 
 A very simple workflow using git.
 
-I made the following steps:
+It is composed by the following steps:
 
   
     1. New  repos(at gitHub).
